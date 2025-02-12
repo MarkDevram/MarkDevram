@@ -1,18 +1,20 @@
-👋 Hi, I’m Ramesh
 
-💼 I’m currently a software engineer at Ltimindtree with 2.8 years of experience in building React applications.
 
-🛠️ My tech stack includes:
-- HTML, CSS
-- React, Redux Toolkit
-- SQL
+👋 Hi, I’m Ramesh  
 
-🚀 I stay up-to-date with the latest technologies and am currently upskilling with Next.js.
+💼 I’m currently a software engineer at LTIMindtree with 3.2 years of experience in backend development using Java and Spring Boot.  
 
-🤝 I’m looking to collaborate on exciting web development projects.
+🛠️ My tech stack includes:  
+- Java, Spring Boot  
+- SQL  
+- Git  
 
-📫 You can reach me on Linkedin
+🚀 I stay up-to-date with the latest technologies and am currently upskilling in microservices architecture.  
 
-😄 Pronouns: He/Him
+🤝 I’m looking to collaborate on exciting backend development projects.  
 
-🏏 Fun fact: I love playing cricket!
+📫 You can reach me on LinkedIn.  
+
+😄 Pronouns: He/Him  
+
+🏏 Fun fact: I love playing cricket!  
